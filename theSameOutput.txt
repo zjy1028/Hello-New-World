@@ -1,4 +1,12 @@
 #include<stdio.h>
 int main(){
+int i,j,num;
+	int a;
+	scanf("%d\n",&num);
+
+		while(num--){
+          scanf("%d ",&a);
+          printf("%d ",a);
+		}
 return 0;
 }
