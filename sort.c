@@ -36,5 +36,6 @@ min=a;
 }
 }
 printf("%d %d %d",min,mid,max);
+
 return 0;
 }
